@@ -1,2 +1,7 @@
-------Footer-----
-Hola   Hola   Hola
+      HEAD
+  ------Footer-----
+  Hola   Hola   Hola
+
+-----------HEADER DE LA PAGINA WEB------
+*HOME*  *CONTACT*  *ABOUT* *BLOG*
+
