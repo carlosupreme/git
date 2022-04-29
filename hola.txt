@@ -1,2 +1,2 @@
 ------Footer-----
-Texto   Texto   Texto
+Hola   Hola   Hola
